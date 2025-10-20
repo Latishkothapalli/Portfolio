@@ -1,4 +1,4 @@
-# Chakradhar Goud - Personal Portfolio
+# Latish kothapalli - Personal Portfolio
 
 A modern, responsive portfolio website with advanced animations and interactions, featuring an enhanced dynamic home page background.
 
@@ -141,6 +141,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Chakradhar Goud
+Latish kothapalli
 
 Feel free to use this portfolio as a template for your own personal website. Please customize the content and design to make it your own.
